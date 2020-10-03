@@ -1,6 +1,8 @@
 # musicdiscordbot
 Este é um bot para Discord, onde você pode escutar músicas enquanto está em uma sala de voz no Discord, o funcionamento dele é simples, caso você tenha alguma dificulade em usa-lo, ou houver algum erro, pode me chamar via e-mail: dionathan2002@gmail.com, ou via Discord Lil Hawklto#0777, abaixo terá todas as explicações sobre este Bot.
 
+A documentação deste bote está disponivel em [Inglês](https://github.com/DionathanSehnem/musicdiscordbot/blob/main/README.md) e [Português](https://github.com/DionathanSehnem/musicdiscordbot/blob/main/README.pt-br.md).
+
 ## Instalando o bot para que você utilize
 
 ### Selecione uma pasta para colocar os arquivos deste respositório, e siga os passos a seguir no terminal
@@ -28,5 +30,4 @@ Este é um bot para Discord, onde você pode escutar músicas enquanto está em 
 
 ## Passos finais
 - A partir de agora você precisa estar com o terminal no diretorio onde se encontra seus arquivos, execute no terminal: `node index.js`.
-- Caso ocorra algum erro entre em contato comigo por e-mail que irei lhe ajudar.
-- Caso tenha dúvida de como modificar alguma parte do código pode entrar em contato comigo pelo e-mail tambem. Estarei a disposição de todos par ajudar.
+- Caso ocorra algum erro ou tenha alguma dúvida de como modificar o código, entre em contato comigo por e-mail que irei lhe ajudar.
