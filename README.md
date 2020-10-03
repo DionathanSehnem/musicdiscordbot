@@ -6,11 +6,11 @@ Este é um bot para Discord, onde você pode escutar músicas enquanto está em 
 ### Selecione uma pasta para colocar os arquivos deste respositório, e siga os passos a seguir no terminal
 
 
-`npm init
+`npm init`
 
-npm install discord.js --save
+`npm install discord.js --save`
 
-npm install node-opus --save`
+`npm install node-opus --save`
 
 `npm install opusscript --save`
 
