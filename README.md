@@ -1,5 +1,5 @@
 # musicdiscordbot
-This is a bot for Discord, where you can listen to music while you are in a voice room on Discord, its operation is simple, if you have any difficulty using it, or if there is an error, you can call me via email : dionathan2002@gmail.com, or via Discord Lil Hawklto # 0777, below you will have all the explanations about this Bot.
+This is a bot for Discord, where you can listen to music while you are in a voice channel on Discord, its operation is simple, if you have any difficulty using it, or if there is an error, you can call me via email : dionathan2002@gmail.com, or via Discord Lil Hawklto # 0777, below you will have all the explanations about this Bot.
 
 This bot documentation is available in [English](https://github.com/DionathanSehnem/musicdiscordbot/blob/main/README.md) and [Portuguese](https://github.com/DionathanSehnem/musicdiscordbot/blob/main/README.pt-br.md).
 
