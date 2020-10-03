@@ -5,14 +5,14 @@ Este é um bot para Discord, onde você pode escutar músicas enquanto está em 
 
 ### Selecione uma pasta para colocar os arquivos deste respositório, e siga os passos a seguir no terminal
 
-`
-npm init
-npm install discord.js --save
-npm install node-opus --save
-npm install opusscript --save
-npm install simple-youtube-api --save
-npm install ytdl --save
-`
+
+`npm init`
+`npm install discord.js --save`
+`npm install node-opus --save`
+`npm install opusscript --save`
+`npm install simple-youtube-api --save`
+`npm install ytdl --save`
+
 
 ### Após isso acesse o arquivo config.json utilizando seu editor de código.
 - `prefix = `ali você irá colocar algum sinal que será reconhecido pelo seu bot, ele sempre irá antes do comando. Caso eu utilize `?` como prefixo o comando de play será usado desta forma `?play`. Se for utilizar este bot em um servidor com outros bots, cuide para não haver conflito de prefixos.
