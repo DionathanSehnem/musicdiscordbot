@@ -7,10 +7,14 @@ Este é um bot para Discord, onde você pode escutar músicas enquanto está em 
 
 
 `npm init`
+
 `npm install discord.js --save`
+
 `npm install node-opus --save`
 `npm install opusscript --save`
+
 `npm install simple-youtube-api --save`
+
 `npm install ytdl --save`
 
 
