@@ -27,6 +27,6 @@ Este é um bot para Discord, onde você pode escutar músicas enquanto está em 
 - `youtubeapikey`: talvez esta parte seja um pouco mais complicada para iniciantes, porém [você pode clicar aqui](https://blog.difluir.com/2016/10/como-criar-uma-chave-de-api-para-youtube/#:~:text=Criando%20o%20Projeto%20e%20a%20Chave%20de%20API&text=Em%20seguida%20v%C3%A1%20em%20Biblioteca,a%20op%C3%A7%C3%A3o%20Chave%20de%20API.) e será redirecionado a um link onde explicara melhor como conseguir sua key do youtube. Após consegui-lá, somente a cole no arquivo config.json.
 
 ## Passos finais
-- A partir de agora você precisa estar com o terminal no diretorio onde se encontra seus arquivos, execute no console `node index.js`.
+- A partir de agora você precisa estar com o terminal no diretorio onde se encontra seus arquivos, execute no terminal: `node index.js`.
 - Caso ocorra algum erro entre em contato comigo por e-mail que irei lhe ajudar.
 - Caso tenha dúvida de como modificar alguma parte do código pode entrar em contato comigo pelo e-mail tambem. Estarei a disposição de todos par ajudar.
