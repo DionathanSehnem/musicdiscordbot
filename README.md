@@ -22,7 +22,7 @@ This bot documentation is available in [English](https://github.com/DionathanSeh
 ### After that, access the config.json file using your code editor.
 - `prefix`: there you will put some signal that will be recognized by your bot, it will always go before the command. If I use `?` As a prefix, the play command will be used in this way `?play`. If you are going to use this bot on a server with other bots, be careful not to have a prefix conflict.
 
-- `token`: this part is very important, as the token will be your bot's identity document, it is it that tells which bot will use this script. Never spread this to anyone. To access this token just go to [Discord Developers] (https://discord.com/developers/applications) create an application, and get your token in the bot section, paste it in config.json and one more step to your bot will be complete.
+- `token`: this part is very important, as the token will be your bot's identity document, it is it that tells which bot will use this script. Never spread this to anyone. To access this token just go to [Discord Developers](https://discord.com/developers/applications) create an application, and get your token in the bot section, paste it in config.json and one more step to your bot will be complete.
 
 - `youtubeapikey`: maybe this part is a little more complicated for beginners, however [you can click here](https://blog.difluir.com/2016/10/como-criar-uma-chave-de-api-para-youtube/#:~:text=Criando%20o%20Projeto%20e%20a%20Chave%20de%20API&text=Em%20seguida%20v%C3%A1%20em%20Biblioteca,a%20op%C3%A7%C3%A3o%20Chave%20de%20API.) And you will be redirected to a link where you will better explain how to get your youtube key. After getting it, just paste it in the config.json file.
 
